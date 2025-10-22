@@ -36,12 +36,14 @@ where
 
 ### 🚀 How to Run
 1. Install dependencies:
+   '''
    pip install pygame numpy
 
-
+''''
 2. Run the game:
+'''
    python snake_game_astar.py
-
+''''
 
 ### 📊 Result
 
