@@ -36,17 +36,12 @@ where
 
 ### 🚀 How to Run
 1. Install dependencies:
-   ```bash
    pip install pygame numpy
-````
+
 
 2. Run the game:
-
-   ```bash
    python snake_game_astar.py
-   ```
 
----
 
 ### 📊 Result
 
@@ -54,11 +49,10 @@ where
 * Smooth and responsive gameplay.
 * Final score displayed at the end.
 
----
 
 ### 🏁 Conclusion
 
 This project demonstrates the use of the **A* pathfinding algorithm** in real-time game development, making gameplay smarter and more interactive.
 
----
+
 
